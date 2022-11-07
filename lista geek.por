@@ -51,7 +51,7 @@ programa
 
 			caso 3: 
 			cadeia convidadospararemover
-			escreva(" remover : \n ")
+			escreva(" qual convidado deseja remover? : \n ")
 			leia(convidadospararemover)
 
 			para(inteiro i=0; i < 100; i++){
